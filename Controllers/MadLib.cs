@@ -1,7 +1,7 @@
 /*Caroline Hana
 10-26-2022
 MadLib, console creates a story with different inputs
-Peer Review: Jessie Lamzon
+Peer Review : Jessie Lamzon
 Code is working well and runs without any errors.  I like how simple and well formated the code looks!  Good job!
 */
 
